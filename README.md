@@ -1,2 +1,0 @@
-# itg
-ITG tech test
